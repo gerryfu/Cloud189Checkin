@@ -25,3 +25,4 @@ jobs:
         TY_USER_NAME: ${{secrets.TY_USER_NAME}}
         TY_PASSWORD: ${{secrets.TY_PASSWORD}}
       run: npm start
+
